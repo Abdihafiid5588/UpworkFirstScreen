@@ -7,7 +7,7 @@ function Main(){
         
            <div className="bg-white h-18 w-[600px] rounded-full py-2 px-6 mt-8">
            <input className="h-12 ml-3 my-1 w-96 border-none hover:border-none" type="text" placeholder="What are you looking for?"/>
-           <i class="fa-solid fa-magnifying-glass text-2xl bg-black ml-28 py-2 px-2 rounded-full text-white h-9 w-10"></i>
+           <i class="fa-solid fa-magnifying-glass text-2xl bg-black ml-28 py-2 px-2 rounded-full text-white h-10 w-10"></i>
 
            <div className="flex gap-4 text-white mt-12 ml-32">
             <a href="#">looking for work?</a>
